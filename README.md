@@ -33,15 +33,12 @@ Features:
 
 * Strong dedicated commitment by the developer, a senior member at BitcoinTalk.org
 
-*Quatloo Trader versions between 1.1.2.5 and 2.0.0.0  require the following QTL holdings to unlock features.
+* Quatloo Trader versions between 1.1.2.5 and 2.0.0.0  require the following QTL holdings to unlock features.
 -General Use will require 100 QTL.
 -Auto features will require 1200 QTL.
 -Holdings of QTL have to be on Bittrex.
 
-*Quatloo Trader above and including 2.0.0.0 requires higher QTL holdings to unlock features.
--General Use will require 1000 QTL.
--Auto features will require 3000 QTL.
--Holdings of QTL can be spread among exchanges that list QTL.
+* Quatloo Trader above and including 2.0.0.0 requires higher QTL holdings to unlock features.-General Use will require 1000 QTL.-Auto features will require 3000 QTL.-Holdings of QTL can be spread among exchanges that list QTL.
 
 ![](http://quatloos.org/img/Trader-Latest.png)
 
