@@ -15,9 +15,10 @@ Features:
  * Fast intuitive use of Bittrex's API v1.1 to trade any alt coin much faster than at the website.
 
  * Additional useful trading information not seen at the website like:
- - total btc value of each order in the buy/sell order books.
- - total sum of each book's btc value.
- - quick access to the value of BTC for all orders above a chosen price level in either order book.
+- total btc value of each order in the buy/sell order books.
+- total sum of each book's btc value.
+- quick access to the value of BTC for all orders above a chosen price level in either order book.
+
 * Listing of all accounts you have at Bittrex and their respective and total  values in BTC and Dollars.
 
 * Listing of your open orders and order history with cancel order option.
